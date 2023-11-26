@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @WALID-ETTER .
 - 👀 I’m interested in programming and machine-learning .
 - 🌱 I’m currently learning C language to balance between my studies and my interests .
+- here's my e-mail etterwalid04@gmail.com
